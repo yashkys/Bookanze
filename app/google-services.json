@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249318694941",
+    "project_id": "bookanzee",
+    "storage_bucket": "bookanzee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249318694941:android:fdb0aab4ecea0be42b66f4",
+        "android_client_info": {
+          "package_name": "com.kys.bookeedanzee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249318694941-irs5c5sk60c4lst4dn1gicnr12is9964.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPGJZeWenMrofQFk8nOOM3pJm5olglVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249318694941-irs5c5sk60c4lst4dn1gicnr12is9964.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

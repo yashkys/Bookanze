@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bookanzee</string>
+    <string name="intro">By Yash Khaitan</string>
+    <string name="icon">icon</string>
+</resources>
